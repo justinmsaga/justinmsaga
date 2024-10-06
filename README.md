@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @justinmsaga
 - 👀 I’m interested in technology, music and baked food
-- 🌱 I’m currently learning Frontend web development with React.js
+- 🌱 I’m currently learning Frontend web development with vanilla Javascript (
+  - was perviously learning React but decided that stating from the fundamentals is a more sustaibable way to learn
 - 🎨 my creative alter ego work available at https://github.com/bushsk8r
